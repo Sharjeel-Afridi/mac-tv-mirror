@@ -1,0 +1,10 @@
+.DS_Store
+*.h264
+sender-macos/.build/
+sender-macos/Package.resolved
+receiver-androidtv/.gradle/
+receiver-androidtv/.idea/
+receiver-androidtv/build/
+receiver-androidtv/app/build/
+receiver-androidtv/local.properties
+receiver-androidtv/.kotlin/

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mac TV Mirror</string>
+    <string name="waiting">Waiting for a Mac…</string>
+    <string name="waiting_detail">Waiting for a Mac…\n\nThis TV:  %1$s   port %2$d\nBonjour:  %3$s\n\nOn the Mac:  mactv send --host %1$s</string>
+    <string name="connecting">Connecting from %1$s…</string>
+    <string name="connected">Connected to %1$s\nwaiting for video…</string>
+</resources>
